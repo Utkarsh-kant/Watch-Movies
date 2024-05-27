@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_explore"
+        android:icon="@drawable/explore"
+        android:title="Explore"/>
+    <item
+        android:icon="@drawable/heart"
+        android:title="Favorite"
+        android:id="@+id/nav_fav"/>
+    <item 
+        android:icon="@drawable/cart"
+        android:title="My cart"
+        android:id="@+id/nav_cart"/>
+    <item 
+        android:icon="@drawable/profile"
+        android:title="Profile"
+        android:id="@+id/nav_profile"/>
+
+</menu>
